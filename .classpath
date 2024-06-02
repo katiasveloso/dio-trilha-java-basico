@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Argumentos/src"/>
+	<classpathentry kind="src" path="ContaBanco/src"/>
+	<classpathentry kind="src" path="controle-fluxo/src"/>
+	<classpathentry kind="src" path="Crinado-sistema/src"/>
+	<classpathentry kind="src" path="Debugging/src"/>
+	<classpathentry kind="src" path="DesafioControleFluxo/src"/>
+	<classpathentry kind="src" path="escopo/src"/>
+	<classpathentry kind="src" path="JavaDoc/src"/>
+	<classpathentry kind="src" path="Métodos/src"/>
+	<classpathentry kind="src" path="Operadores/src"/>
+	<classpathentry kind="src" path="Scanner/src"/>
+	<classpathentry kind="src" path="sistema-smart-tv/src"/>
+	<classpathentry kind="src" path="TipoeVariaveis/src"/>
+	<classpathentry kind="output" path="Argumentos/bin"/>
+</classpath>
