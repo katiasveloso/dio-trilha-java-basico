@@ -6,8 +6,8 @@ public class scanner {
       //criando o objeto scanner
       Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
-      System.out.println("Digite seu nome");
-      String nome = scanner.next();
+      System.out.println("Digite o valor a ser depositado");
+      String vsl = scanner.next();
       
       System.out.println("Digite seu sobrenome");
       String sobrenome = scanner.next();
